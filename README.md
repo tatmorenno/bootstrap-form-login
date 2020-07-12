@@ -1,5 +1,5 @@
 <h1 align="left">
-    Primeiro layout de login em <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png" width="10" height="10">
+    Primeiro layout de login em <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png" width="50" height="50">
     ootstrap.
   <br/>
 </h1>
