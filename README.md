@@ -1,7 +1,6 @@
-# Primeiro layout de login em Bootstrap.
-
-<h1 align="center">
+<h1 align="left">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png" width="80" height="80">
+    Primeiro layout de login em Bootstrap.
   <br/>
 </h1>
 
@@ -16,11 +15,11 @@
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [HTML](https://nodejs.org/en/)
-- [CSS](https://expressjs.com/)
-- [Bootstrap](https://www.sqlite.org/index.html)
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML);
+- [CSS](https://www.w3.org/Style/CSS/Overview.en.html);
+- [Bootstrap](https://getbootstrap.com/)
 
 ## 💻 Projeto
-O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de resíduos de forma eficiente.
+O *Bootstrap Form Login* é um layout responsivo que desenvolvi para aplicar os conhecimentos adquiridos no curso de Bootstrap do [Bonieky Lacerda](https://b7web.com.br/).
 
 Feito com ♥ por [Tatiana Emília Moreno](https://www.linkedin.com/in/tatmorenno/) 👩‍💻
